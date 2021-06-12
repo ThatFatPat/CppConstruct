@@ -1,0 +1,3 @@
+BasedOnStyle: Google
+# IndentAccessModifiers: false
+AlwaysBreakTemplateDeclarations: Yes
