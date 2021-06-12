@@ -19,6 +19,4 @@ typename Parser::parsing_type parseWithHooks(IReadable &stream,
 }
 
 void readWithHooks(IReadable &stream, std::span<std::byte> buffer,
-                   ParsingContext &context) {
-  return stream.read(buffer);
-}
+                   ParsingContext &context);

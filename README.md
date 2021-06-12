@@ -1,1 +1,3 @@
 # CppConstruct
+## TODO
+- Unstaticify struct
